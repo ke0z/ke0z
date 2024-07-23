@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ke0z , twitter @ke_0z
-- 👀 I’m interested in Dynamic Binary Analysis, Reverse Engineering, Exploit Development, Vulnerability Research, Bug Bounty
-- 🌱 I’m currently learning Low Level Programming (x86/x86_64), Automotive Tuning, RE, Binary analysis(Dynamic, Static, Symbolic ..etc)
+- 👀 I’m interested in Dynamic Binary Analysis, Reverse Engineering, Windows Vulnerability Research & Exploit Development, Bug Bounty
+- 🌱 I’m currently learning Windows Internals
 - 💞️ I’m looking to collaborate on anything above
 - 📫 How to reach me (My Twitter)
 
